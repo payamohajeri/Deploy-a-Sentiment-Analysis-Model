@@ -79,8 +79,8 @@ def train(model, train_loader, epochs, optimizer, loss_fn, device):
             batch_y = batch_y.to(device)
 
             optimizer.zero_grad()
-            out = model.forward(batch_X)
-            loss = loss_fn(out, batch_y)
+            output = model.forward(batch_X)
+            loss = loss_fn(output, batch_y)
             loss.backward()
             optimizer.step()
 
