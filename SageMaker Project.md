@@ -1293,7 +1293,7 @@ predictor.endpoint
 
 
 
-    'sagemaker-pytorch-2019-10-28-13-56-37-116'
+    'sagemaker-pytorch-2019-10-28-15-18-05-072'
 
 
 
@@ -1338,6 +1338,12 @@ Now that your web app is working, trying playing around with it and see how well
 **Question**: Give an example of a review that you entered into your web app. What was the predicted sentiment of your example review?
 
 **Answer:**
+
+Review:
+I am eager to see more non-comedic efforts by Todd Phillips. This movie was so far probably the best of 2019 (at worst contested so far only by Dolor Y Gloria or Once Upon a Time in Hollywood), and that should be very convincing.
+
+Result:
+Your review was NEGATIVE!
 
 ### Delete the endpoint
 
