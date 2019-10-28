@@ -4,4 +4,4 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-Thanks to [luishengjie](https://github.com/luishengjie/Deploying-a-Sentiment-Analysis-Model) which helped me to implement this project.
+Thanks to [luishengjie](https://github.com/luishengjie/Deploying-a-Sentiment-Analysis-Model) which helped me to understand this project.
